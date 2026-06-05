@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mothieshwar-satheesh-b176991b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/heart_made.gifts" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mothieshwar.s2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -69,7 +69,7 @@
 
 ## 🚀 Featured Projects
 
-### 🐾 [Paws & Claws — Veterinary Clinic Management System](https://YOUR_PAWSANDCLAWS_URL)
+### 🐾 Paws & Claws — Veterinary Clinic Management System
 > Full-stack production app used daily at a real veterinary clinic
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
