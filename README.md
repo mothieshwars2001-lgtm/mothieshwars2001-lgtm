@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mothi 👋</h1>
 
 <p align="center">
-  <b>IT Analyst @ TCS · Data Analyst in the Making · Builder of Real-World Apps</b><br/>
+  <b>Business Analyst @ TCS · Data Analyst in the Making · Builder of Real-World Apps</b><br/>
   <i>Chennai / Kerala, India</i>
 </p>
 
