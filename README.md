@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 IT Analyst at **Tata Consultancy Services (TCS)** — supporting Aptiv's EMEA automotive supply chain (DMF project)
+- 🏢 BUSINESS Analyst at **Tata Consultancy Services (TCS)** — supporting Aptiv's EMEA automotive supply chain (DMF project)
 - 🗄️ SQL-heavy work: data validation, user access lifecycle, stakeholder reporting
 - 🐾 Built **Paws & Claws PMS** — a full production clinic management system (Vercel + Supabase + vanilla JS)
 - 🎁 Running **@heart_made.gifts** — a handmade gifts brand with a custom-built static website
